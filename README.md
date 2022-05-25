@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am currently developing my skills as a full stack developer. I have a passion for technology and solving problems, I am currently learning on expanding my knowledge with Express and Node. I am currently working on Mongoose and I am having a blast learning it. If you found value in anything I have created shoutout @bnyarko06. Feel free to reach out!
 <!--
 **bnyarko06/Bnyarko06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
